@@ -101,5 +101,5 @@ Two data-quality issues were caught and handled rather than hidden, which is the
 
 ## Author
 
-**Moses Okunlola** - transitioning into data analytics, with a background in compensation, benefits and business intelligence.
-LinkedIn: _add your post/profile URL_ - Contact: _add email_
+Moses Okunlola — Data Analyst · Business Intelligence
+LinkedIn:https://www.linkedin.com/in/moses-okunlola-777a0011a/ · Email: okunlolamoses703@gmail.com
