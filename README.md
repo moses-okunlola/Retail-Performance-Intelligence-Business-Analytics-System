@@ -86,22 +86,6 @@ Two data-quality issues were caught and handled rather than hidden, which is the
 
 ---
 
-## Repository structure
-
-```
-├── Retail_Performance_Intelligence_Moses_Okunlola.xlsx   # Final BI solution (13 sheets)
-├── data/
-│   ├── Management_Insights_Messy.xlsx                    # Raw, uncleaned source (4 tables)
-│   └── New_Data_Stress_Test.xlsx                         # Refresh/scalability test dataset
-├── assets/
-│   ├── dashboard.png                                     # Executive dashboard screenshot
-│   ├── power_query_steps.png                             # Power Query Applied Steps
-│   └── pareto_products.png                                # Pareto 80/20 chart
-└── README.md
-```
-
----
-
 ## How to use
 
 1. Open `Retail_Performance_Intelligence_Moses_Okunlola.xlsx` in Microsoft Excel (Windows, with Power Query).
