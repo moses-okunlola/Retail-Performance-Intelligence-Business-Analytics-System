@@ -6,8 +6,6 @@
 
 An automated, Excel-based business-intelligence solution that turns raw, dirty retail transaction data into an interactive executive dashboard. Built end to end with Power Query ETL, a merged analytical data model, Pareto and trend analytics, and a one-page decision dashboard engineered so new data flows through to every metric and chart with a single refresh, no manual rework.
 
-> Capstone project, Data Analysis programme (Baraka, 2026). Built by **Moses Okunlola**.
-
 ![Executive Dashboard](assets/dashboard.png)
 
 ---
